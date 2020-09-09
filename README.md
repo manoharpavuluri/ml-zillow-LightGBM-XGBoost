@@ -20,3 +20,12 @@ XGBoost\
 LightGBM
 
 # Visualizations 
+
+<img src="https://github.com/manoharpavuluri/zillow-LightGBM-XGBoost/blob/master/photos/missingfeature.png" height="500" width="1200"> 
+
+<img src="https://github.com/manoharpavuluri/zillow-LightGBM-XGBoost/blob/master/photos/feature_core.png" height="1300" width="1000"> 
+
+<img src="https://github.com/manoharpavuluri/zillow-LightGBM-XGBoost/blob/master/photos/feature_imp.png" height="1300" width="1000"> 
+
+<img src="https://github.com/manoharpavuluri/zillow-LightGBM-XGBoost/blob/master/photos/tree.png" height="500" width="1200"> 
+
